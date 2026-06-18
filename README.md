@@ -1,4 +1,4 @@
-# Blood Test Assistant
+# Medical Lab Chatbot
 
 A Flutter application for scanning blood test reports, reviewing OCR-extracted indicators, and receiving AI-assisted explanations through a conversational interface.
 
